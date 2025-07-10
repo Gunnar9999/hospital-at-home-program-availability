@@ -20,10 +20,10 @@ This project explores the availability of Hospital-at-Home (HaH) programs across
 
 ## Files  
 - `HaH_Dashboard.pbix` – Interactive Power BI dashboard  
-- `HaH_Hospitals_ISM6404.xlsx` – Final merged dataset with model features  
-- `Term_Project_Final_Report.docx` – Final project report including full methodology, visuals, and conclusions  
-- `ahrf2022.csv` – Source dataset from AHRF (reference only)  
-- `README.md` – Project overview and structure
+- `HaH Hospitals - ISM6404.xlsx` – Dataset of counties with active HaH programs 
+- `Term Project Final version.docx` – Final project report including full methodology, visuals, and conclusions  
+- `ahrf2022 - HaH Data.xlsx` – County-level source data from AHRF
+- `HaH Data Processing Output (version 1).xlsb.xlsx` – Cleaned and merged dataset used in the dashboard
 
 ## Summary of Findings  
 - HaH programs are most common in urban counties with higher insured populations and larger hospital capacity  
